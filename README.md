@@ -36,8 +36,9 @@ ____
 _____
 ## Visualization
 1. CLARA
+<img width="766" height="609" alt="image" src="https://github.com/user-attachments/assets/8605940a-6bc7-47e7-a66a-c33376ea6570" />
 
 2. DBSCAN
-
+<img width="642" height="603" alt="image" src="https://github.com/user-attachments/assets/3081879a-d689-4668-b49a-7411268666a8" />
 
 P.S. you can move graphics 
